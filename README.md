@@ -1,4 +1,3 @@
-# crypto-analysis
 # Cryptocurrency Clustering Project: Unveiling Market Trends
 
 
