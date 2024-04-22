@@ -40,7 +40,7 @@ Acknowledgments:
 
 
 
-
+https://tdepew562.github.io/crypto-analysis/resources/composite_plot_elbow.html
 
 
 
