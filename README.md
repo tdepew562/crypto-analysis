@@ -17,13 +17,13 @@ Our journey begins with data preparation, where we harness the power of Standard
 
 In our quest for knowledge, we employ the venerable elbow method to discover the optimal value for k. The journey through the elbow curve is fraught with intrigue as we decipher the mysteries of inertia values and chart our course towards enlightenment.
 
-![Elbow Curve](.resources/composite_plot_elbow.html)
+![Elbow Curve](https://raw.githubusercontent.com/tdepew562/crypto-analysis/main/resources/composite_plot_elbow.html)
 
 ### Clustering Cryptocurrencies with K-means
 
 With the guiding light of k to illuminate our path, we venture into the realm of K-means clustering. Armed with insights from the elbow curve, we embark on a voyage to group cryptocurrencies into clusters and unveil the hidden treasures of market segmentation.
 
-![Scatter Plot](.resources/composite_plot_scatter.html)
+![Scatter Plot](https://raw.githubusercontent.com/tdepew562/crypto-analysis/main/resources/composite_plot_scatter.html)
 
 ### Unveiling Insights with PCA
 
